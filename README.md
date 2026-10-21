@@ -4,7 +4,7 @@
 practise mock interviews, build a resume and ask questions about a PDF with page-level citations.
 No API keys, no database, no tracking.
 
-**Live demo:** https://YOUR-APP-NAME.streamlit.app  ·  Click **"See a live demo"** to explore a populated account.
+**Live demo:** [Visit GitHub](https://whats-my-job-manu8baqberxgfhq6nqkeu.streamlit.app/) ·  Click **"See a live demo"** to explore a populated account.
 
 <!-- Add 3-4 screenshots of YOUR running app here, e.g. docs/today.png -->
 
